@@ -4,7 +4,7 @@
 
 
 ## About
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence), focusing on analyzing lego data from Sets from https://www.kaggle.com/datasets/willianoliveiragibin/lego-sets-and/data . For a detailed walkthrough, please view the source code in Mini Project python notebook:
+This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence), focusing on analyzing lego data from Sets from https://www.kaggle.com/datasets/willianoliveiragibin/lego-sets-and/data . For a detailed walkthrough, For a detailed walkthrough, please view the source code in the [Mini Project Python notebook](https://github.com/Tortoisey1/SC1015-Intro-to-DSAI/blob/main/Mini%20Project.ipynb).
 
 ## Contributors
 - **Noel Tan**
