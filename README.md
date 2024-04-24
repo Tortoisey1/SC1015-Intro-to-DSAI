@@ -1,5 +1,7 @@
 # Welcome to the Lego Repository
 
+![Ferarri Daytona SP3]([URL_of_image](https://blogger.googleusercontent.com/img/a/AVvXsEiMZx3MfZFUS8eF4G2fBE_3wgcamEZdYeqGwmAMC-C6ekITkh2uYQhCVQ_vw_IDhVUa18OAzMADyJYl45LvoclM2s_5xIhPu_JvJOMONqWGH8nC--6mvRAfWGYXYBUG6H_wqtiIpKW7GJ7yXL1DNrrZDm74eMQvCJptXGPH3eRIPAK84zplWRtX83K3mg=w640-h360))
+
 ## About
 This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence), focusing on analyzing lego data from Sets from https://www.kaggle.com/datasets/willianoliveiragibin/lego-sets-and/data . For a detailed walkthrough, please view the source code in Mini Project python notebook:
 
